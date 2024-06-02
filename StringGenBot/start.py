@@ -27,5 +27,5 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ꜱᴛᴀʀʟᴇʏ](https://t.me/cv_official_c
                 ]
             ]
         ),
-        disable_web_page_preview=True,
+        disable_web_page_preview=False,
     )
