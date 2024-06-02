@@ -16,8 +16,7 @@ async def start(bot: Client, msg: Message):
         caption=f"""Hᴇʏ {msg.from_user.mention}🦋,
 
 Tʜɪs ɪs {me2},
-Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
-ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
+A  sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.🎈
 
 Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ꜱᴛᴀʀʟᴇʏ](https://t.me/cv_official_channel) !""",
         reply_markup=InlineKeyboardMarkup(
@@ -27,5 +26,4 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ꜱᴛᴀʀʟᴇʏ](https://t.me/cv_official_c
                 ]
             ]
         ),
-        disable_web_page_preview=False,
     )
